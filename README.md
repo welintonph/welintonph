@@ -1,122 +1,144 @@
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:005288,100:000000&height=200&section=header&text=WELINTON%20A.%20ALVES%20JR.&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=MISSION:%20SOFTWARE%20ENGINEERING%20%2B%20AGRONOMY&descAlignY=60&descSize=16&descColor=00C2FF"/>
+████████████████████████████████████████
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING+PROFILE...;%3E+STATUS%3A+ONLINE;%3E+MISSION%3A+BUILDING+AGROMATCH;%3E+STACK%3A+PYTHON+%2F+LARAVEL+%2F+JS;%3E+OBJECTIVE%3A+TECH+%2B+AGRICULTURE" />
+                 WELINTON
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=000000&label=TRANSMISSIONS+RECEIVED"/>
+         BUILDING THE FUTURE OF
+             AGRICULTURE
 
-</div>
+          Software Engineer
 
-<br>
-
-```
-╔══════════════════════════════════════════════════════════╗
-║  MISSION LOG // CREW MEMBER: WELINTON ANTÔNIO ALVES JR.    ║
-╚══════════════════════════════════════════════════════════╝
+████████████████████████████████████████
 ```
 
-### 🛰️ CREW STATUS
-```
-> ROLE       : Software Engineering Student
-> SECONDARY  : Agronomy Student
-> PAYLOAD    : AgroMatch (rural tech platform)
-> LOCATION   : Brasil 🇧🇷
-> STATUS     : Operational
-```
+Depois aparece uma animação digitando:
 
-<br>
+```text
+Software Engineer
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  SYSTEMS // TECH STACK                                      ║
-╚══════════════════════════════════════════════════════════╝
-```
+Agronomy Student
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,mysql,mongodb,git,github,vscode,linux&theme=dark"/>
-</div>
+AI Developer
 
-<br>
+Laravel
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  TELEMETRY // GITHUB METRICS                                 ║
-╚══════════════════════════════════════════════════════════╝
+Python
+
+Building Agro MK3
+
+Future AgTech Founder
 ```
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/master/metrics.svg" width="100%"/>
-</p>
+---
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+## Depois vem uma seção parecida com a da SpaceX
 
-**🔥 LAUNCH STREAK**
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true&background=000000&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF"/>
+```text
+MISSION
+────────────────────────────────────
 
-</td>
-<td valign="top" width="50%">
-
-**📡 SIGNAL STATS**
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00C2FF&icon_color=00C2FF"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-```
-╔══════════════════════════════════════════════════════════╗
-║  ORBIT LOG // CONTRIBUTION TRAJECTORY                        ║
-╚══════════════════════════════════════════════════════════╝
+Building technology that transforms
+the agricultural market through
+Artificial Intelligence.
 ```
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+---
 
-<br>
+## Projeto Principal
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  PAYLOAD // FEATURED MISSION                                 ║
-╚══════════════════════════════════════════════════════════╝
-```
+```text
+PROJECT
 
-<div align="center">
+AGRO MK3
 
-### 🌱 AgroMatch
-**STATUS: IN DEVELOPMENT**
+AI Powered Agricultural Platform
 
-> Plataforma inteligente que conecta produtores rurais e profissionais especializados através da tecnologia.
+Status
 
-<a href="https://github.com/SEU_USUARIO/agromatch">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=agromatch&theme=dark&hide_border=true&bg_color=000000&title_color=00C2FF"/>
-</a>
-
-</div>
-
-<br>
-
-```
-╔══════════════════════════════════════════════════════════╗
-║  COMMUNICATIONS // GROUND CONTROL                            ║
-╚══════════════════════════════════════════════════════════╝
+███████████████████░░ 85%
 ```
 
-<div align="center">
-<a href="https://linkedin.com/in/SEU_LINK"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00C2FF"/></a>
-<a href="mailto:SEUEMAIL"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00C2FF"/></a>
-</div>
+---
 
-<br>
+## Stack
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=666666&center=true&vCenter=true&width=600&lines=%3E+END+OF+TRANSMISSION;%3E+THANK+YOU+FOR+VISITING" />
-</div>
+```
+PHP          ████████████
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:005288,100:000000&height=150&section=footer"/>
+Laravel      ████████████
+
+Python       █████████
+
+MySQL        ███████████
+
+Git          ███████████
+
+JavaScript   █████████
+```
+
+---
+
+## Dashboard
+
+```
+MISSIONS
+
+🚀 Agro MK3
+
+🌱 Agronomy
+
+💻 Software Engineering
+
+🤖 Artificial Intelligence
+```
+
+---
+
+## Estatísticas
+
+```
+MISSION DATA
+
+📊 GitHub Stats
+
+🔥 Streak
+
+🐍 Snake
+
+🏆 Trophies
+
+📈 Activity Graph
+```
+
+---
+
+## Rodapé
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THE FUTURE IS BUILT TODAY.
+
+Welinton Antônio
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+# O que vai deixar seu perfil diferente
+
+Eu também faria um **banner exclusivo**, inspirado na SpaceX, mas com um foguete sendo substituído por uma **plantadeira autônoma**, drones agrícolas e circuitos eletrônicos formando uma lavoura.
+
+Algo como:
+
+```text
+                    ★
+
+             AGRO MK3
+
+      BUILDING THE FUTURE
+        OF AGRICULTURE
+
+        🌾      🤖      🚜
+```
+
