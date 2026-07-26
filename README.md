@@ -1,21 +1,23 @@
 <h1 align="center">Olá 👋, eu sou Welinton Antônio Alves Júnior</h1>
 
-<h3 align="center">💻 Software Engineering Student | 🌱 Agronomy Student | 🚀 Building Agro MK3</h3>
+<h3 align="center">💻 Estudante de Engenharia de Software | 🌱 Estudante de Agronomia | 🚀 Construindo soluções que unem Tecnologia e Agronegócio</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineer+Student;Agronomy+Student;Laravel+Developer;Python+Developer;Building+Agro+MK3;Technology+%2B+Agriculture;Always+Learning..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Estudante+de+Engenharia+de+Software;Estudante+de+Agronomia;Desenvolvedor+Laravel;Estudando+Python;Próximo+passo:+JavaScript;Tecnologia+%2B+Agronegócio;Sempre+Aprendendo..." />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0047AB&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0047AB&height=220&section=header&text=Bem-vindo+ao+meu+GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 # 👨‍💻 Sobre mim
 
 - 🎓 Estudante de Engenharia de Software
 - 🌱 Estudante de Agronomia
-- 🚀 Criando **Click Serv** **Agro connect**
-- 💙 Apaixonado por Tecnologia
+- 🚀 Desenvolvendo projetos próprios de tecnologia
+- 💙 Apaixonado por programação, inovação e Inteligência Artificial
+- 📚 Atualmente estudando **Python**
+- 🎯 Próximo objetivo: **JavaScript**
 - 🌎 Brasil
 
 ---
@@ -42,7 +44,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Sequência de Contribuições
 
 <p align="center">
 
@@ -52,7 +54,7 @@
 
 ---
 
-# 📈 Activity Graph
+# 📈 Atividade no GitHub
 
 <p align="center">
 
@@ -62,7 +64,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Conquistas
 
 <p align="center">
 
@@ -82,11 +84,21 @@
 
 ---
 
-# 🚀 Projeto em Destaque
+# 🚀 Projetos em Destaque
 
-## 🌱 Agro MK3
+## 🌱 Agro Connect
 
-> Plataforma inteligente desenvolvida para conectar produtores rurais, agrônomos e empresas através da Inteligência Artificial.
+> Iniciativa focada no desenvolvimento de soluções tecnológicas para o setor agro, atualmente em fase de pesquisa, planejamento e construção.
+
+**Situação:** 🟢 Em desenvolvimento.
+
+---
+
+## ⚡ ServiçoClick
+
+> Projeto voltado ao desenvolvimento de uma plataforma digital escalável, com foco em experiência do usuário, inovação e tecnologia.
+
+**Situação:** 🟢 Em desenvolvimento.
 
 ---
 
@@ -116,7 +128,9 @@
 
 <p align="center">
 
-⭐ Obrigado por visitar meu perfil!
+### 🚀 "Grandes projetos começam com uma ideia e evoluem com dedicação."
+
+Obrigado por visitar meu perfil!
 
 </p>
 
