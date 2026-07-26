@@ -14,7 +14,7 @@
 
 - 🎓 Estudante de Engenharia de Software
 - 🌱 Estudante de Agronomia
-- 🚀 Criador do **Agro MK3**
+- 🚀 Criando **Click Serv** **Agro connect**
 - 💙 Apaixonado por Tecnologia
 - 🌎 Brasil
 
