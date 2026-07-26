@@ -1,23 +1,21 @@
 <h1 align="center">Olá 👋, eu sou Welinton Antônio Alves Júnior</h1>
 
-<h3 align="center">💻 Estudante de Engenharia de Software | 🌱 Estudante de Agronomia | 🚀 Construindo soluções que unem Tecnologia e Agronegócio</h3>
+<h3 align="center">💻 Software Engineering Student | 🌱 Agronomy Student | 🚀 Building Agro Connect MK3</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Estudante+de+Engenharia+de+Software;Estudante+de+Agronomia;Desenvolvedor+Laravel;Estudando+Python;Próximo+passo:+JavaScript;Tecnologia+%2B+Agronegócio;Sempre+Aprendendo..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineer+Student;Agronomy+Student;Laravel+Developer;Python+Developer;Building+Agro+MK3;Technology+%2B+Agriculture;Always+Learning..." />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0047AB&height=220&section=header&text=Bem-vindo+ao+meu+GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0047AB&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 # 👨‍💻 Sobre mim
 
 - 🎓 Estudante de Engenharia de Software
 - 🌱 Estudante de Agronomia
-- 🚀 Desenvolvendo projetos próprios de tecnologia
-- 💙 Apaixonado por programação, inovação e Inteligência Artificial
-- 📚 Atualmente estudando **Python**
-- 🎯 Próximo objetivo: **JavaScript**
+- 🚀 Criando Click Serv e Agro connect 
+- 💙 Apaixonado por Tecnologia
 - 🌎 Brasil
 
 ---
@@ -44,7 +42,7 @@
 
 ---
 
-# 🔥 Sequência de Contribuições
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -54,7 +52,7 @@
 
 ---
 
-# 📈 Atividade no GitHub
+# 📈 Activity Graph
 
 <p align="center">
 
@@ -64,7 +62,7 @@
 
 ---
 
-# 🏆 Conquistas
+# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -128,11 +126,8 @@
 
 <p align="center">
 
-### 🚀 "Grandes projetos começam com uma ideia e evoluem com dedicação."
-
-Obrigado por visitar meu perfil!
+⭐ Obrigado por visitar meu perfil!
 
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,100:00C2FF&height=120&section=footer"/>
-
