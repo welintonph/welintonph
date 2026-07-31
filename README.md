@@ -36,6 +36,7 @@ Meu foco principal é desenvolvimento **Backend**, arquitetura de sistemas, banc
 - PHP
 - Laravel
 - MySQL
+- JavaScript
 - MongoDB
 - APIs REST
 - Git e GitHub
@@ -106,7 +107,7 @@ Projeto direcionado ao setor agro, desenvolvido para facilitar a integração en
 
 >Status:
 >
->🟡 Desenvolvimento
+>🟢 Em desenvolvimento
 
 ---
 
