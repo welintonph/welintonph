@@ -147,15 +147,6 @@ Algumas funcionalidades não são divulgadas por questões estratégicas.
 
 ---
 
-# 📊 Gráfico de Atividades
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 🐍 Snake Animation
 
